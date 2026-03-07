@@ -15,7 +15,7 @@ const APP_CONFIG = {
 /* ---------- Supabase 配置（在 supabase.js 中使用） ---------- */
 const SUPABASE_CONFIG = {
   url: 'https://mjugidbhmjbochcdnkmr.supabase.co',
-  anonKey: 'sb_publishable_08ayrgCPHKzv9azN0IZszQ_l9877HbV',
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1qdWdpZGJobWpib2NoY2Rua21yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI1ODI3MTcsImV4cCI6MjA4ODE1ODcxN30.iA3IZ_ssPcf6wzhF0t3Bge_xv1TUwMHYWf5cz6VDgtE',
 };
 
 /**
