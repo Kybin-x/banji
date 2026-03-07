@@ -23,7 +23,7 @@ const SUPABASE_CONFIG = {
  * true  = Mock数据，无需Supabase账号，直接用预设账号登录
  * false = 真实Supabase认证（需先在数据库创建用户）
  */
-const DEMO_MODE = true;
+const DEMO_MODE = false;
 
 /* ---------- 路由表（页面路径） ---------- */
 const ROUTES = {
